@@ -1,4 +1,4 @@
-![Banner](https://github.com/kichkiro/42/blob/assets/banner_borntoberoot.jpg?raw=true)
+<img src="https://github.com/kichkiro/42/blob/assets/banner_borntoberoot.jpg?raw=true" width="100%"/>
 
 # Born2beroot
 
